@@ -1,0 +1,12 @@
+D:\Training\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.exe.config
+D:\Training\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.exe
+D:\Training\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.pdb
+D:\Training\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.exe
+D:\Training\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.pdb
+D:\Training\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\bin\Debug\SelectionSortApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SelectionSortApplication\SelectionSortApplication\obj\Debug\SelectionSortApplication.csprojResolveAssemblyReference.cache
